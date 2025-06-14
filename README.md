@@ -1,2 +1,4 @@
 # Capstone_Project
-A full-Stack capstone project on IRCTC-Clone web-application. Ezz-Trip
+
+Web-Application :: Ezz-Trip
+A full-Stack capstone project on IRCTC-Clone web-application...
