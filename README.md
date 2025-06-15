@@ -1,7 +1,4 @@
-# Capstone_Project
-
-:: Ezz-Trip ::
-
+# :: Ezz-Trip ::
 
 This capstone project focuses on developing a web application that emulates the core functionalities of the Indian Railway Catering and Tourism Corporation (IRCTC) platform.
 
